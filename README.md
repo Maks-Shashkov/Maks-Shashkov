@@ -69,3 +69,5 @@
 ### 🏆 Мои достижения:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maks-Shashkov&theme=radical)
+
+[![trophy](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Maks-Shashkov}&theme={radical})
