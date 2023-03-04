@@ -15,7 +15,7 @@
 ### 📱 Социальные сети:
 
 <div id="badges">
-    <a href="(https://t.me/maks1162" target="_blank">
+    <a href="https://t.me/maks1162" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group"/>
     </a>
     <a href="https://vk.com/id375425605" target="_blank">
