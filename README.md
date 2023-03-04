@@ -10,7 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maks-Shashkov&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maks-Shashkov=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maks-Shashkov&theme=radical)
 
 
 
