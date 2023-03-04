@@ -68,4 +68,4 @@
 ---
 ### 🏆 Мои достижения:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maks-Shashkov&theme=tokyo-night)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maks-Shashkov&theme=radical)
