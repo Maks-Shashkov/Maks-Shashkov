@@ -63,7 +63,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maks-Shashkov&theme=radical)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Maks-Shashkov&theme=tokyo-night)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Maks-Shashkov&theme=tokyo-night)
 
 ---
 ### 🏆 Мои достижения:
