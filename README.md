@@ -67,4 +67,4 @@
 
 ### ⚙️ Моя статистика:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maks-Shashkov-ma&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maks-Shashkov)
