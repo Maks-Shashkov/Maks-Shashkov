@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maks-shashkov" alt="maks-shashkov" /></a> </p>
 
+- 🔭 Изучаю веб разработку [на курсах](GeekBrains)
+
+- 🌱 Хочу по скорее закончить курсы и работать **frontend разработчиком.**
+
 - 📫 Как со мной связаться: **https://t.me/maks1162 Maks.Shashkov@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
