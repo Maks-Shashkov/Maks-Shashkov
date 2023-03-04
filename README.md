@@ -7,6 +7,7 @@
 
 - 📫 Как со мной связаться: **https://t.me/maks1162 Maks.Shashkov@icloud.com**
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maks-Shashkov&theme=radical)
 
 <h3 align="left">Languages and Tools:</h3>
