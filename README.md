@@ -8,7 +8,7 @@
 
 - 🌐 Хочу по скорее закончить курсы и работать frontend разработчиком.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Maks_Shaskov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/maks1162) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)]<a href="mailto:vlad@webref.ru">vlad@webref.ru</a>
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Maks_Shaskov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/maks1162) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Maks.Shashkov@icloud.com)
 
 ---
 
