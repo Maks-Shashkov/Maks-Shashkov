@@ -64,3 +64,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maks-Shashkov&theme=radical)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### ⚙️ Моя статистика:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)
