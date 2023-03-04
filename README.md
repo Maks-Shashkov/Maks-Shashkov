@@ -12,7 +12,7 @@
 
 ---
 
-### 🤝 Социальные сети:
+### 📱 Социальные сети:
 
 <div id="badges">
     <a href="" target="_blank">
@@ -59,13 +59,13 @@
 | gb.ru/Факультет Веб разработки                                  |
 
 ---
-### ⚙️ Моя статистика:
+### 📕 Моя статистика:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maks-Shashkov&theme=radical)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Maks-Shashkov&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-### ⚙️ Мои достижения:
+### 🏆 Мои достижения:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maks-Shashkov&theme=radical)
