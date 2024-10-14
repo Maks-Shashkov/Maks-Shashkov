@@ -8,14 +8,14 @@
 
 - 🌐 Хочу по скорее закончить курсы и работать frontend разработчиком.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Maks_Shaskov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/maks1162) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Maks.Shashkov@icloud.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Maks_Shaskov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Maks14367) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Maks.Shashkov@icloud.com)
 
 ---
 
 ### 📱 Социальные сети:
 
 <div id="badges">
-    <a href="https://t.me/maks1162" target="_blank">
+    <a href="https://t.me/Maks14367 target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group"/>
     </a>
     <a href="https://vk.com/id375425605" target="_blank">
